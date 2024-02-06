@@ -1,3 +1,19 @@
+Other links:
+
+https://sharedsignals.guide/
+
+https://github.com/duo-labs/sharedsignals/blob/main/examples/transmitter/README.md
+
+https://github.com/duo-labs/sharedsignals/blob/main/docs/how-to-create-a-stream.md
+
+https://caep.dev/recovery
+
+http://localhost:9000/swagger-ui/index.html
+
+https://dashboard.ngrok.com/get-started/setup/macos
+
+https://auth0.com/blog/spring-boot-angular-crud/
+
 # Spring Boot H2 Database CRUD example: Building Rest API with Spring Data JPA
 
 For more detail, please visit:
